@@ -10,7 +10,7 @@ const Landing = () => {
         <div className=" flex flex-auto flex-row justify-between my-40">
             <div className="flex flex-1 flex-col self-start text-left gap-5">
                 <p className="text-white">Hello My Name is</p>
-                <p className="text-white text-3xl font-bold">Muhammad Waleed Arshad</p>
+                <p className="text-primary text-2xl font-bold">Muhammad Waleed Arshad</p>
                 <p className="text-white">I's full stack software enginner - Mobile & web</p>
                 <p className="text-white">Learn More.!</p>
             </div>
