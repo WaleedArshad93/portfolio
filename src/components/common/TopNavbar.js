@@ -7,9 +7,9 @@ export const TopNavbar = () => {
     }
 
     return (
-        <div className="py-5 flex justify-between ">
+        <div className="py-5 flex justify-between">
             <button className="text-base text-lg hover:text-primary">itsWaleed.com</button>
-            <div className="flex self-end">
+            <div className="hidden md:flex self-end">
                 <Button name={"browsemy"} onClick={handleButtonClick}>
                     Browse my
                 </Button>
